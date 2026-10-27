@@ -1,6 +1,6 @@
 module github.com/drone-plugins/drone-pushover
 
-go 1.26.10
+go 1.20
 
 require (
 	github.com/drone/drone-template-lib v1.0.0
